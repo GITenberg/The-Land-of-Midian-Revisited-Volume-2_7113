@@ -1,0 +1,28 @@
+_repo: The-Land-of-Midian-Revisited-Volume-2_7113
+creator:
+  author:
+    agent_name: Burton, Richard Francis, Sir
+    aliases:
+    - Baker, Frank
+    - Burton, R. F. (Richard F.), Sir
+    - Burton, Sir Richard Francis
+    birthdate: 1821
+    deathdate: 1890
+    gutenberg_agent_id: '898'
+    url: http://www.gutenberg.org/2009/agents/898
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Francis_Burton
+description: ''
+gutenberg_issued: '2004-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7113'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Burton, Richard Francis, Sir, 1821-1890'
+- !lcsh 'Hejaz (Saudi Arabia) -- Description and travel'
+- !lcc 'DS'
+title: The Land of Midian (Revisited) — Volume 2
+url: http://www.gutenberg.org/ebooks/7113
